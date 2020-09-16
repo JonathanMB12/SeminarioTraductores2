@@ -1,0 +1,11 @@
+int main()
+{
+
+ float a = 12.50;
+ int b = 15;
+
+ int suma = a + b;
+
+ return 0;
+  
+}
